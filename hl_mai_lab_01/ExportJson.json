@@ -1,0 +1,65 @@
+[
+  {
+    "first_name": "Artem",
+    "last_name": "Chistyakov",
+    "title": "test bim\ntest bam\ntest bum",
+    "id": 0,
+    "login": "Deluxe",
+    "password": "strongpasswordanyway",
+    "email": "Deluxe90139@gmail.com"
+  },
+  {
+    "first_name": "Artemka",
+    "last_name": "Chist",
+    "title": "bimbim bambam",
+    "id": 1,
+    "login": "Archi",
+    "password": "iloveyou1337forewer",
+    "email": "Archi@mail.ru"
+  },
+  {
+    "first_name": "Tema",
+    "last_name": "Chistakov",
+    "title": "testov\ntest\ntestovich",
+    "id": 2,
+    "login": "Artest",
+    "password": "test123pass321log111",
+    "email": "test@for.me"
+  },
+  {
+    "first_name": "Workchi",
+    "last_name": "Ditov",
+    "title": "mai eight inst",
+    "id": 3,
+    "login": "Itwork111111",
+    "password": "nolognopass0000",
+    "email": "Worchi@it.mos.ru"
+  },
+  {
+    "first_name": "Petr",
+    "last_name": "First",
+    "title": "Europe\nRussia\nLove",
+    "id": 4,
+    "login": "Petr.Veliky",
+    "password": "ilovemystpetesburg",
+    "email": "boloto@spb.ri"
+  },
+  {
+    "first_name": "Bin",
+    "last_name": "Black",
+    "title": "who am",
+    "id": 5,
+    "login": "Spiderlily",
+    "password": "jpgformatorpng",
+    "email": "imfromrussia@rus.ru"
+  },
+  {
+    "first_name": "End",
+    "last_name": "Over",
+    "title": "lust",
+    "id": 6,
+    "login": "Maybenext",
+    "password": "leftrightflight",
+    "email": "end@mai.ru"
+  }
+]
